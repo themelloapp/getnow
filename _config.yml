@@ -41,35 +41,35 @@ features                                  :
     
   - title                                 : Over 130+ Sounds & Growing
     description                           : Featuring a variety of soothing sounds such as water, nature, birds, fireplace, animals, melodies, lullabies, white noise and more.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : music
 
   - title                                 : Keeping You Calm
     description                           : Mello helps with falling asleep quicker, relieving insomnia, meditation, improving your mood, relaxing, focusing and relieving anxiety and stress.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : brain
 
   - title                                 : Curated Mixes
     description                           : Enjoy a varied selection of relaxing soundscapes created in-house for you to dive in and escape the world.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : list-alt
 
   - title                                 : Custom Mixes
     description                           : Create and save your very own soundscapes by easily mixing sounds and volumes until you find that perfect melodic match.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : list-ul
   
   - title                                 : Match Your Mood
     description                           : Select from a clean palette of mellow accent colors to theme the app to your very own liking.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : palette
 
   - title                                 : No Ads
     description                           : Not a single ad appears within Mello. We're trying to reduce stress, not add to it. We love it too.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : ban
 
   - title                                 : Bedtime Reminder
     description                           : A healthy sleep schedule makes for a healthy lifestyle. Easily set your perfect time to begin to unwind.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : bed
 
   - title                                 : Mello+
     description                           : Unlock the full experience with Mello+, our affordable subscription which unlocks all sounds, mixes and features to enjoy.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
