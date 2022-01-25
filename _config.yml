@@ -99,8 +99,8 @@ app_description_color                     : "#cfd2d7"
 feature_title_color                       : "#cfd2d7"
 feature_text_color                        : "#3b4e66"
 
-feature_icons_foreground_color            : "#5785bb"
-feature_icons_background_color            : "#0e1c31"
+feature_icons_foreground_color            : "#0e1c31"
+feature_icons_background_color            : "#5785bb"
 
 social_icons_foreground_color             : "#5785bb"
 social_icons_background_color             : "#0e1c31"
